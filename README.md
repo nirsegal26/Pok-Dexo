@@ -53,12 +53,15 @@ cd PokeDexo
 # 3. Open index.html in your browser
 # (You can simply double-click it)
 
+---
 
 ## 👨‍💻 **Developer**
 
 Created by Nir Segal
 
-Software Engineering Student | 
+Software Engineering Student |
+
+---
 
 ##⚡ **Credits**
 
@@ -67,5 +70,7 @@ Pokémon data & sprites: PokéAPI
 Icons: Font Awesome
 
 Fonts: Google Fonts – Rubik & Press Start 2P
+
+---
 
 ⭐ If you like this project, consider giving it a star!
